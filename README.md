@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Fiorella 👋
 
-<!--
-**Fioo1/Fioo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Interesada en Ciberseguridad
+
+📊 Aspirante a Analista de Datos
+
+💻 Desarrollo Web con React
+
+🐍 Programación con Python
+
+🗄️ Bases de Datos SQL
+
+## Actualmente
+
+🚀 Desarrollando proyectos académicos y personales
+
+📚 Aprendiendo Arquitectura de Software y Ciberseguridad
+
