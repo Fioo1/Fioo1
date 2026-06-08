@@ -31,4 +31,4 @@
 
 💼 LinkedIn: www.linkedin.com/in/fiorella-portella
 
-📧 Email: fiorella.portella.valadez@gmail.com
+📧 Email: fiorella.portella.valdez@gmail.com
