@@ -22,7 +22,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas** en la **Universidad de Lima**.
 
-Me gusta desarrollar proyectos que resuelvan problemas reales mientras continúo aprendiendo nuevas tecnologías. Actualmente me interesa especialmente el desarrollo web, el análisis de datos y el Machine Learning.
+Me gusta desarrollar proyectos que resuelvan problemas reales mientras continúo aprendiendo nuevas tecnologías. Actualmente me interesa especialmente el análisis de datos, el desarrollo web y el Machine Learning.
 
 Actualmente estoy construyendo proyectos utilizando **React**, **Supabase** y **Python**, además de fortalecer mis conocimientos en **Data Analytics**.
 
