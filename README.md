@@ -1,34 +1,85 @@
-# Hola, soy Fiorella 👋
+<h1 align="center">¡Hola! 👋 Soy Fiorella Portella</h1>
 
-🎓 Estudiante de Ingeniería de Sistemas
+<p align="center">
+  <img src="./images/banner.png" alt="Banner" width="100%">
+</p>
 
-## Sobre mí
+<p align="center">
+  <b>Systems Engineering Student</b><br>
+  Passionate about Data Analytics, Machine Learning and Full Stack Development.
+</p>
 
-🔐 Interesada en Ciberseguridad
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-1E88E5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-8E24AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</p>
 
-📊 Aspirante a Analista de Datos
+---
 
-💻 Desarrollo Web con React
+# 👩🏻‍💻 Sobre mí
 
-🐍 Programación con Python
+Soy estudiante de **Ingeniería de Sistemas** en la **Universidad de Lima**.
 
-🗄️ Bases de Datos SQL
+Me gusta desarrollar proyectos que resuelvan problemas reales mientras continúo aprendiendo nuevas tecnologías. Actualmente me interesa especialmente el desarrollo web, el análisis de datos y el Machine Learning.
 
-## Actualmente
+Actualmente estoy construyendo proyectos utilizando **React**, **Supabase** y **Python**, además de fortalecer mis conocimientos en **Data Analytics**.
 
-🚀 Desarrollando proyectos académicos y personales
+---
 
-📚 Aprendiendo Arquitectura de Software y Ciberseguridad
+# 🚀 Tecnologías
 
-## Tecnologías
+### Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,js" />
+</p>
 
-## Conecta conmigo
+### Backend & Database
 
-💼 LinkedIn: www.linkedin.com/in/fiorella-portella
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,nodejs,mysql,firebase" />
+</p>
 
-📧 Email: contacto.fio.portella@gmail.com
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# ⭐ Proyectos destacados
+
+## 🎉 Party Planner
+
+<p align="center">
+<img src="./images/partyplanner.png" width="700">
+</p>
+
+Aplicación web desarrollada con React y Supabase para organizar eventos, administrar invitados, mesas y presupuesto desde una única plataforma.
+
+---
+
+## 🔐 Password Lab
+
+<p align="center">
+<img src="./images/passwordlab.png" width="700">
+</p>
+
+Colección de herramientas relacionadas con la generación, análisis y evaluación de contraseñas seguras.
+
+---
+
+
+# 📫 Contacto
+
+- 💼 LinkedIn: https://www.linkedin.com/in/TU-LINKEDIN
+- 📧 Email: contacto.fio.portella@gmail.com
