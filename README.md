@@ -81,5 +81,5 @@ Colección de herramientas relacionadas con la generación, análisis y evaluaci
 
 # 📫 Contacto
 
-- 💼 LinkedIn: https://www.linkedin.com/in/TU-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/fiorella-portella
 - 📧 Email: contacto.fio.portella@gmail.com
