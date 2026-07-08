@@ -61,7 +61,7 @@ Actualmente estoy construyendo proyectos utilizando **React**, **Supabase** y **
 ## 🎉 Party Planner
 
 <p align="center">
-<img src="./images/partyplanner.png" width="700">
+<img src="./images/PartyPlanner.png" width="700">
 </p>
 
 Aplicación web desarrollada con React y Supabase para organizar eventos, administrar invitados, mesas y presupuesto desde una única plataforma.
